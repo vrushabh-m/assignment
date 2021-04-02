@@ -1,0 +1,5 @@
+Machine Learning is a field of study where we teach a computer to complete a particular task without explicitely programming it.
+
+Example: In the game of chess, the AI learns from it's experience of playing chess with other players and 
+after each game it gains experience from the game and performs well in it's next game, so the probability of winning the game
+increases after each game it plays. This happens without explicitely programming it to win the game.
